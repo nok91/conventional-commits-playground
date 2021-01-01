@@ -1,0 +1,20 @@
+{
+  "name": "conventional-commits-playground",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "repository": "https://github.com/nok91/conventional-commits-playground.git",
+  "author": "Mohammed <mohammed.nokri@itg.co.uk>",
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "commitlint": "^11.0.0",
+    "husky": "^4.3.6"
+  },
+  "dependencies": {}
+}
