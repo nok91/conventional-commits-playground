@@ -1,0 +1,15 @@
+.form-select {
+    display: inline-block;
+    width: initial;
+    border-radius: 0px;
+    border-color: black;
+}
+
+.form-check-input[type=checkbox] {
+    border-radius: 0px;
+    border-color: black;
+}
+
+.hljs {
+    background: transparent;
+}

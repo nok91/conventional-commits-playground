@@ -1,0 +1,38 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.main {
+    text-align: left;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.convetional-commits {
+    display:flex;
+    align-items: center;
+}
+
+.convetional-commits__type {
+    margin-right: 20px;
+}
+
+samp {
+    display: block;
+    margin: 20px 0px;
+    padding: 10px;
+    display: block;
+    background-color: #ffffff0d;
+    font-weight: lighter;
+    font-size: 12px;
+}
