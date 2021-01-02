@@ -48,15 +48,16 @@
                         class="form-select form-select-sm convetional-commits__scope"
                         aria-label=".form-select-sm"
                     >
-                        <option selected><pre><code>&lt;scope&gt;</code></pre> </option>
-                        <option value="feat">init</option>
-                        <option value="fix">runner</option>
-                        <option value="docs">watcher</option>
-                        <option value="refactor">config</option>
-                        <option value="test">web-server</option>
-                        <option value="proxy">proxy</option>
-                        <option value="etc">etc...</option>
+                        <option selected><pre><code>[optional scope]</code></pre> </option>
+                        <option value="feat">(init)</option>
+                        <option value="fix">(runner)</option>
+                        <option value="docs">(watcher)</option>
+                        <option value="refactor">(config)</option>
+                        <option value="test">(web-server)</option>
+                        <option value="proxy">(proxy)</option>
+                        <option value="etc">(etc...)</option>
                     </select>
+                    :&nbsp; <input type="text" placeholder="<description>" />
                 </div>
                 <hr />
                 <pre><code>&lt;type&gt;[optional scope]: &lt;description&gt;
