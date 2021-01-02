@@ -1,6 +1,6 @@
 {
   "name": "conventional-commits-playground",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/nok91/conventional-commits-playground.git",
   "author": "Mohammed <mohammed.nokri@itg.co.uk>",
