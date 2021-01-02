@@ -3,7 +3,7 @@ See how a minor change to your commit message style can make a difference. [Exam
 
 **Have a look at CLI util [conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/) to ensure this conventions and generate changelogs**
 
-**[playground](https://nok91.github.io/conventional-commits-playground/) to ensure this conventions and generate changelogs**
+**Have a look to the conventional commits Playground [playground](https://nok91.github.io/conventional-commits-playground/)**
 
 ## Commit Formats
 
